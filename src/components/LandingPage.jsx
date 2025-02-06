@@ -28,7 +28,7 @@ export default function LandingPage() {
         turn from my sins and invite You to come into my heart and life. I want
         to trust and follow You as my Lord and Savior. Amen.&quot;
       </motion.p>
-      <motion.a
+      {/* <motion.a
         href="#"
         className="button"
         initial={{ opacity: 0, y: 20 }}
@@ -36,7 +36,7 @@ export default function LandingPage() {
         transition={{ duration: 1, delay: 1 }}
       >
         Learn More
-      </motion.a>
+      </motion.a> */}
     </div>
   );
 }
